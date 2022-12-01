@@ -1,0 +1,877 @@
+.headerare .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.headerareb .wrapper
+{
+	width:80%;
+	margin:auto;
+} 
+.logo .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.logobox  .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.about .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.company .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.pure .wrapper
+{ 
+	width:80%;
+	margin:auto;
+}
+.service .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.calltoaction .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.portfolio .wrapper
+{
+width:80%;
+	margin:auto;
+}
+.team .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.pricing .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.questions .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.contactus .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.newsletter .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.detail .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.website .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.headerare .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.headerare
+{
+	background-color:blue;
+	height:62px;
+}
+.headerare .headerare-fc
+{
+	display:flex;
+	justify-content:space-between;
+
+}
+.headerare .headerare-fc .a
+{
+	background-color:blue;
+	height:40px;
+	width:20%;
+	margin-top:10px;
+	margin-left:30px;
+	color:white;
+}
+.headerare .headerare-fc .b
+{
+	background-color:orange;
+	height:40px;
+	width:25%;
+    margin-top:10px;
+	margin-right:30px;
+	text-align:center;
+	color:white;
+
+}
+
+
+.headerare1
+{
+	background-color:navy;
+	height:68px;
+	
+}
+.headerare1 .headerare1-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.headerare1 .headerare1-fc .a
+{
+	background-color:navy;
+	height:50px;
+	width:20%;
+	margin-top:10px;
+	margin-left:30px;
+	color:white;
+	text-align:center;
+
+}
+.headerare1 .headerare1-fc .b
+{
+	background-color:navy;
+	height:50px;
+	width:40%;
+	margin-top:10px;
+	margin-right:30px;
+	color:white;
+	text-align:center;
+}
+
+
+.logo 
+{
+	background-color:blue;
+	height:723px;
+}
+.logo .logo-fc
+{
+display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+.logo .logo-fc .logo1
+{
+	background-color:blue;
+	height:211px;
+	width:60%;
+	margin-top:100px;
+	border:2px solid navy;
+}
+
+.logo .logo-fc .logo2
+{
+	background-color:blue;
+	height:43px;
+	width:20%;
+	margin-top:100px;
+	border:2px solid orange;
+	color:white;
+	text-align:center;
+}
+.logobox
+{
+	background-color:blue;
+	height:209px;
+
+}
+.logobox .logobox-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.logobox .logobox-fc .a
+{
+	background-color:white;
+	height:209px;
+	width:22%;
+	margin-top:90px;
+	border:2px solid black;
+}
+.logobox .logobox-fc .b
+{
+	height:209px;
+		width:22%;
+		background-color:white;
+		margin-top:90px;
+		border:2px solid black;
+}
+.logobox .logobox-fc .c
+{
+	height:209px;
+		width:22%;
+		background-color:white;
+		margin-top:90px;
+		border:2px solid black;
+}
+.logobox .logobox-fc .d
+{
+	height:209px;
+		width:22%;
+		background-color:white;
+		margin-top:90px;
+		border:2px solid black;
+}
+.about
+{
+	background-color:white;
+	height:459px;
+	margin-top:191px;
+}
+.about .about-fc  
+{
+	display:flex;
+	flex direction:row;
+	justify-content:space-between;
+}
+.about .about-fc .xa 
+{
+	background-color:white;
+	height:342px;
+	width:46%;
+	margin-top:30px;
+	border:2px solid black;
+}
+.about .about-fc .xb
+{
+	background-color:white;
+	height:342px;
+	width:46%;
+	margin-top:30px;
+	border:2px solid black;
+}
+
+.company1 
+{
+	background-color:white;
+	height:107px;
+}
+.company1 .company1-fc 
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+}
+.company1 .company1-fc .a
+{
+	background-color:white;
+	height:68px;
+	width:18%;
+	margin-top:20px;
+	color:black;
+	text-align:center;
+}
+.company1 .company1-fc .b
+{
+	background-color:white;
+	height:68px;
+	width:18%;
+	margin-top:20px;
+	text-align:center;
+}
+.company1 .company1-fc .c
+{
+	background-color:white;
+	height:68px;
+	width:18%;
+	margin-top:20px
+}
+.company1 .company1-fc .d
+{
+	background-color:white;
+	height:68px;
+	width:18%;
+	margin-top:20px;
+	text-align:center;
+}
+.company1 .company1-fc .e
+{
+	background-color:white;
+	height:68px;
+	width:18%;
+	margin-top:20px;
+	text-align:center;
+}
+
+
+.pure
+{
+		background-color:skyblue;
+	 height:600px;
+}
+.pure .pure-fc
+{
+	display:flex;
+	flex-direction:row;
+} 
+
+.pure .pure-fc .box
+{
+	background-color:black;
+	width:46%;
+	height:600px;
+	margin-left:-140px;
+
+}
+.pure .pure-fc .text
+{
+	text-align:center;
+    margin-top:10px;
+	width:46%;
+}        
+
+
+
+
+.service
+{
+		background-color:white;
+	height:600px;
+}
+.service .service-fc
+
+{
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	flex-wrap:wrap;
+
+}
+.service .service-fc .service1
+{
+	text-align:center;
+margin-top:50px;
+width:100%
+}
+.service .service-fc .a 
+
+{
+	background-color:white;
+	height:100px;
+	width:45%;
+	margin-top:15px;
+	border:2px solid black;
+
+}
+.service .service-fc .b
+{
+	background-color:white;
+	height:100px;
+	width:45%;
+	margin-top:15px;
+	border:2px solid black;
+
+
+}
+.service .service-fc .c
+{
+	background-color:white;
+	height:100px;
+		width:45%;
+	margin-top:15px;
+	border:2px solid black;
+
+}
+.service .service-fc .d
+{
+	background-color:white;
+	height:100px;
+		width:45%;
+	margin-top:15px;
+	border:2px solid black;
+
+}
+
+.service .service-fc .e
+{
+	background-color:white;
+	height:100px;
+		width:45%;
+	margin-top:15px;
+	border:2px solid black;
+
+}
+.service .service-fc .f
+{
+	background-color:white;
+	height:100px;
+		width:45%;
+	margin-top:15px;
+	border:2px solid black;
+
+}
+.call-to-action 
+{
+	background-color:blue;
+	height:300px;
+}
+.call-to-action .call-to-action-fc 
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+
+}
+
+.call-to-action .call-to-action-fc .boxa
+{
+text-align:center;
+margin-top:150px;
+}
+.call-to-action .call-to-action-fc .boxb
+{
+	background:white;
+	height:77px;
+	width:30%px;
+	margin-top:150px;
+}
+
+.portfolio
+{
+	background-color:white;
+	height:1100px;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.portfolio .portfolio-fc .text
+{
+	text-align:center;
+	width:100%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .a
+{
+	background-color:lightblue;
+	height:309px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .b
+{
+background-color:lightblue;
+	height:309px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .c
+{
+	background-color:lightblue;
+	height:309px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .d
+
+{
+	background-color:lightblue;
+	height:309px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .e
+{
+	background-color:lightblue;
+	height:309px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .f
+{
+	background-color:lightblue;
+	height:309px;
+	width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .g
+
+{
+	background-color:lightblue;
+	height:309px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .h
+{
+	background-color:lightblue;
+	height:309px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .i
+{
+	background-color:lightblue;
+	height:309px;
+		width:31%;
+			margin-top:30px;
+}
+
+.team
+{
+	background-color:lightgreen;
+	height:700px;
+}
+.team .team-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+
+}
+.team .team-fc .textteam
+{
+	text-align:center;
+	width:100%;
+	margin-top:40px;
+}
+.team .team-fc .teama
+{
+	background-color:white;
+	height:232px;
+		width:46%;
+		margin-top:30px;
+}
+.team .team-fc .teamb
+{
+background-color:white;
+	height:232px;
+		width:46%;
+		margin-top:30px;
+}
+.team .team-fc .teamc
+{
+background-color:white;
+	height:232px;
+		width:46%;
+		margin-top:30px;
+}
+.team .team-fc .teamd
+{
+	background-color:white;
+	height:232px;
+		width:46%;
+		margin-top:30px;
+}
+
+.pricing 
+{
+	background-color:white;
+	height:610px;
+}
+.pricing  .pricing-fc
+{
+
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.pricing  .pricing-fc .price1
+{
+	text-align:center;
+	width:100%;
+	margin-top:20px;
+}
+.pricing  .pricing-fc .text 
+{
+	text-align:center;
+	width:100%;
+	margin-top:40px;
+}
+.pricing  .pricing-fc .bloga
+{
+	background:white;
+	height:419px;
+	width:22%;
+		margin-top:40px;
+		border:2px solid black;
+
+}
+.pricing  .pricing-fc .bloga .blogbut
+{
+	background-color:blue;
+	width:100%;
+	margin-top:174%;
+	
+
+}
+
+.pricing  .pricing-fc .blogb
+{
+background:white;
+	height:419px;
+	width:22%;
+		margin-top:40px;
+		border:2px solid black;
+}
+.pricing  .pricing-fc .blogb .blogbuta
+{
+	background-color:blue;
+	width:100%;
+	margin-top:174%;
+	
+}
+
+.pricing  .pricing-fc .blogc
+{
+background:white;
+	height:419px;
+	width:22%;
+		margin-top:40px;
+		border: 2px solid black;
+}
+.pricing  .pricing-fc .blogc .blogbutb
+{
+	background-color:blue;
+	width:100%;
+	margin-top:174%;
+}
+
+
+.pricing  .pricing-fc .blogd
+{
+	background:white;
+	height:419px;
+		width:22%;
+		margin-top:40px;
+		border: 2px solid black;
+}
+.pricing  .pricing-fc .blogd .blogbutc
+{
+	background-color:blue;
+	width:100%;
+	margin-top:174%;
+}
+
+.questions
+{
+	background-color:skyblue;
+	height:700px;
+}
+.questions .questions-fc
+{
+	display:flex;
+	flex-direction:column;
+	flex-wrap:wrap;
+	align-items:center;
+}
+.questions .questions-fc .textques
+{
+	text-align:center;
+	width:100%;
+	margin-top:25px;
+}
+.questions .questions-fc .quebig
+{
+	background:white;
+	height:117px;
+	width:80%;
+		margin-top:30px;
+		border: 2px solid black;
+}
+.questions .questions-fc .quea
+{
+	background:white;
+	height:70px;
+	width:80%;
+		margin-top:30px;
+		border: 2px solid black;
+}
+.questions .questions-fc .queb
+{
+	background:white;
+	height:70px;
+width:80%;
+		margin-top:30px;
+		border: 2px solid black;
+}
+.questions .questions-fc .quec
+{
+	background:white;
+	height:70px;
+width:80%;
+		margin-top:30px;
+		border: 2px solid black;
+}
+.questions .questions-fc .qued
+{
+	background:white;
+	height:70px;
+	width:80%;
+    margin-top:30px;
+    border: 2px solid black;
+
+}
+.contactus
+{
+	background-color:white;
+	height:497px;
+}
+.contactus .contactus-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+
+}
+.contactus .contactus-fc .context
+{
+		text-align:center;
+	width:100%;
+	margin-top:25px;
+}
+.contactus .contactus-fc .cona
+{
+	text-align:center;
+	margin-top:2px;
+	width:40%;
+		margin-top:50px;
+}
+.contactus .contactus-fc .conb
+{
+	background:white;
+	height:50px;
+		width:40%;
+		margin-top:50px;
+		border: 2px solid black;
+
+}
+.contactus .contactus-fc .conc
+{
+		text-align:center;
+	margin-top:2px;
+		width:40%;
+		margin-top:50px;
+}
+.contactus .contactus-fc .cond
+{
+	background:white;
+	height:50px;
+	width:40%;
+		margin-top:50px;
+		border: 2px solid black;
+}
+.contactus .contactus-fc .cone
+{
+		text-align:center;
+	margin-top:2px;
+	width:40%;
+		margin-top:50px;
+}
+.contactus .contactus-fc .conf
+{
+	background:white;
+	height:50px;
+	width:40%;
+		margin-top:50px;
+		border: 2px solid black;
+}
+
+
+
+.newsletter
+{
+	background-color:navy;
+	height:200px;
+}
+.newsletter .newsletter-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+}
+.newsletter .newsletter-fc .newa
+{
+	text-align:center;
+		margin-top:60px;
+
+}
+.newsletter .newsletter-fc .newb
+{
+	background:white;
+	height:50px;
+	width:40%;
+		margin-top:60px;
+}
+
+
+
+.detail 
+{
+	background-color:blue ;
+	height:343px;
+}
+.detail .detail-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.detail .detail-fc .deta
+{
+		background-color:blue;
+	height:241px;
+		width:22%;
+		margin-top:20px;
+		
+}
+.detail .detail-fc .detb
+{
+	background-color:blue;
+	height:241px;
+			width:22%;
+		margin-top:20px;
+}
+.detail .detail-fc .detc
+{
+	background-color:blue;
+	height:241px;
+			width:22%;
+		margin-top:20px;
+}
+.detail .detail-fc .detd
+{
+	background-color:blue;
+	height:241px;
+			width:22%;
+		margin-top:20px;
+}
+.website
+{
+	background-color :navy;
+	height:100px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.website .website-fc .copyright
+{
+	background-color:white;
+	width:20;
+	height:35px;
+	margin-top:20px;
+}
